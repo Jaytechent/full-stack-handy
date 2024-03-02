@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "name": "mern-scaffold",
-  "version": "1.1.17",
+  "name": "fullstack-handy",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,13 +11,19 @@
     "mern-scaffold": "index.js"
   },
   "keywords": [
+    "fullstack",
     "MERN",
     "react",
     "vite",
+    "mongoDb",
+    "Node",
     "express",
-    "boilerplate"
+    "boilerplate",
+    "Dapp",
+    "Frontend",
+    "Backend"
   ],
-  "author": "",
+  "author": "jaytechent",
   "license": "ISC",
   "dependencies": {
     "global-modules": "^2.0.0",
@@ -26,6 +32,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/momohyusuf/MERN-scaffold.git"
+    "url": "https://github.com/Jaytechent/full-stack-handy.git"
   }
 }
