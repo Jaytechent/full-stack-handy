@@ -1,25 +1,25 @@
-# MERN SCAFFOLD
+# FULLSTACK HANDY
 
-mern-scaffold is a CLI tool that helps you to quickly develop basic boilerplate code for your MERN app.
+Fullstack-handy is a CLI tool that helps you to quickly develop basic boilerplate code for your MERN application.
 You can generate boilerplate code for your Frontend or Backend.
-You can also generate them as a full stack project.
+You can also generate them as a full stack project which install all necessary dependencies for you fullstack application.
 
 # Installation
 
 By using [npm](http://npmjs.org) (the recommended way):
 
 ```bash
-npm install -g mern-scaffold
+npm install -g fullstack-handy
 ```
 
-mern-scaffold will be installed globally to your system path.
+fullstack-handy will be installed globally to your system path.
 
 # Usage
 
 After downloading, on you Command line just type
 
 ```bash
-mern-scaffold
+fullstack-handy
 ```
 
 # Frontend app
